@@ -1,4 +1,7 @@
 # e Write a Python program to find the most common elements and their counts from list, tuple, dictionary.
+print('''Code written by
+Samarth Dave
+20ce019 ''')
 
 ################################## 1st. MOST COMMON ELEMENTS FROM LIST  #########################
 
